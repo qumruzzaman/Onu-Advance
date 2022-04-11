@@ -1,0 +1,24 @@
+@media (min-width: 0px) and (max-width: 992px){
+	/* navbar start */
+	.navbar-light .navbar-nav .nav-link {
+	  text-align: center;
+	    color: #ffffff;
+	    font-weight: 600;
+	    background: rgba(0, 0, 0, 0.7);
+	    border-bottom: 2px solid #fff;
+	    max-width: 140px;
+	    margin-left: auto;
+	}
+	/* nabar end */
+	/* header start */
+	.carousel-indicators [data-bs-target] {
+	  width: 20px;
+	  height: 20px;
+	  border-radius: 50%;
+	  opacity: 1;
+	  background: #fff;
+	  border-top: 0px solid transparent;
+	  border-bottom: 0px solid transparent;
+	}
+	/* header end */
+}
